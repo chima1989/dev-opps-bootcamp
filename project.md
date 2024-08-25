@@ -1,11 +1,7 @@
-# my name is michael
-
-welcome to michael world
+# DOCUMENTATION OF PROJECT 1
 
 ![1](img/1.png)
 
-hi  
+hi
 
-- first task 
-
-
+- first task
